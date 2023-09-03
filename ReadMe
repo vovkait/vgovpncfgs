@@ -1,10 +1,9 @@
 Hello there and Glory to Ukraine!
 
-Here is a simple bash script to:
-- download csv from vpngate site
-- parse it
-- generate ovpn configs out of BASE64 coded configs.
+Here is a simple bash script that creates a directory containing ready to use ovpn cnfigs and necessary files for x100.
 
-Use it as you wish.
+Put it in you "put-you-ovpn..." directory of x100
 
-In order to make it executable - "chmod +x genvgovpns.sh"  
+or you may use it as you wish.
+
+PS: In order to make it executable - "chmod +x genvgovpns.sh"  
