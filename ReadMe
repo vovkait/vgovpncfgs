@@ -1,0 +1,5 @@
+Hello there and Glory to Ukraine.
+
+Here is a simple bash script to download csv from vpngate site, parse it and generate ovpn configs out of BASE64 coded configs in csv.
+
+Use it as you wish
