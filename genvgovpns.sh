@@ -18,6 +18,7 @@ echo -e "${Yellow}=======================================================${Color
 sleep 1
 
 printf "${Color_Off}1.clean vpng* directories and files..."
+cd ./put-your-ovpn-files-here
 rm vpng* -R 2> /dev/null
 echo -e ".${Green}done${Color_Off}"
 
@@ -63,5 +64,5 @@ echo -e ".${Green}done${Color_Off}"
 printf "8.cleaning..."
 rm servlist.txt
 echo -e ".${Green}done${Color_Off}"
-cd ..
+cd ../..
 
