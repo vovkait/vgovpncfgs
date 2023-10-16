@@ -2,8 +2,6 @@ Hello there and Glory to Ukraine!
 
 Here is a simple bash script that creates a directory containing absolutely free and ready to use ovpn cnfigs and necessary files for x100.
 
-Put it in you "put-you-ovpn..." directory of x100
+1) Put it in you "for-macOS-and-Linux-hosts" directory of x100
 
-or you may use it as you wish.
-
-PS: In order to make it executable - "chmod +x genvgovpns.sh"  
+2) In order to make it executable - "chmod +x custom-script-before-run.bash"
